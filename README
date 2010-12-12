@@ -1,0 +1,15 @@
+This is an incomplete implementation of a 234 Tree in C. 
+
+Supported operations:
+    * insert search
+
+Supported storage types:
+    * int
+
+It could also be thought of as a B-Tree with its minimum degree set to 2,
+T=2. In fact by changing the value of T in the source code you can change
+the tree's minimum degree.
+
+I originally wrote this program because of a school assignment to write a
+234 Tree in Java. I was taking a C class at the same time so I decided to
+write a C version as well as the required Java version. 
